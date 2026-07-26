@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Sudaiss Banner" width="100%" />
+</p>
 <div align="center">
 
 # 👋 Hi, I'm Abdulrahman Mustapha (Sudaiss)
@@ -35,27 +38,73 @@
 
 ## 🚀 Featured Projects
 
-| Project | Live Demo |
-|---------|-----------|
-| 🕌 Explore Al-Masjid An-Nabawi | https://explore-al-masjid-an-nabawi.vercel.app |
-| 🔐 Steganography Lab | https://steganography-lab-five.vercel.app |
-| 💼 AMAGiX Technology | https://amagixtech.netlify.app |
-| 🌐 Personal Portfolio | https://mustaphaabdulrahmansoftwaredev.vercel.app |
+<table>
+<tr>
+<td width="50%">
 
+### 🕌 Explore Al-Masjid An-Nabawi
+
+Interactive educational platform for exploring Al-Masjid An-Nabawi.
+
+**Tech:** React • Next.js • Tailwind CSS
+
+🔗 **Live Demo:**  
+https://explore-al-masjid-an-nabawi.vercel.app
+
+</td>
+
+<td width="50%">
+
+### 🔐 Steganography Lab
+
+Hide and extract secret messages inside images.
+
+**Tech:** React • JavaScript • HTML • CSS
+
+🔗 **Live Demo:**  
+https://steganography-lab-five.vercel.app/
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💼 AMAGiX Technology
+
+Technology company website showcasing digital solutions.
+
+🔗 **Live Demo:**  
+https://amagixtech.netlify.app/
+
+</td>
+
+<td width="50%">
+
+### 🌐 Personal Portfolio
+
+Personal portfolio showcasing projects and skills.
+
+🔗 **Live Demo:**  
+https://mustaphaabdulrahmansoftwaredev.vercel.app/
+
+</td>
+</tr>
+</table>
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sudaiss001&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudaiss001&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sudaiss001&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudaiss001&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 ---
+## 📈 Contribution Graph
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudaiss001&theme=github-dark&hide_border=true"/>
+</p>
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -92,8 +141,11 @@
 
 <div align="center">
 
-> **"And say, 'My Lord, increase me in knowledge.'"** — **Qur'an 20:114**
+### 💚 Thanks for visiting!
 
-⭐ Thank you for visiting my profile!
+> **"And say, 'My Lord, increase me in knowledge.'"**  
+> **📖 Qur'an 20:114**
+
+⭐ If you like my projects, consider giving them a star!
 
 </div>
