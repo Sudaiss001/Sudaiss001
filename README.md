@@ -124,16 +124,11 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudaiss001&theme=github-dark&hide_border=true"/>
 </p>
-## 🔥 GitHub Streak
+## 💡 Quote of the Day
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sudaiss001&theme=github-dark-blue&hide_border=true"/>
-
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0D1117&author_color=007ACC&quote_color=C9D1D9" alt="Quote" />
 </p>
-
----
-
 ---
 
 ## 📬 Connect With Me
